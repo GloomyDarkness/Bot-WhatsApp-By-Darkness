@@ -25,7 +25,7 @@ const menuvip = (prefix) => {
 ││💶 *${prefix}attp6*
 │╰────────┈┈⌁
 │ _Use ${prefix}attp1,2,3..  + texto_
-│ _Ex ${prefix}attp Skiller domina_
+│ _Ex ${prefix}attp Darkness domina_
 ╰───────────┈┈💫
 ╭───────────⌁
 │   _*AUDIO*_ 🔈🔉🔊
@@ -55,7 +55,7 @@ const menuvip = (prefix) => {
 │  _ou junte 1,000,000 dinheiro ${prefix}dinheiro_ 
 │  _use ${prefix}buyvip dps de juntar o dinheiro_ 
 │  _print no numero wa.me/558892594715_
-│             _*skiller bot*_
+│             _*Darkness bot*_
 ╰───────────┈┈💫
 
 `

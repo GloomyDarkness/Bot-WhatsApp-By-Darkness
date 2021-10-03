@@ -18,4 +18,4 @@ const plays = (prefix) => {
 ╰───────────┈┈💫`
 }
 
-exports.plays = plays
+exports.plays = plays

@@ -1481,7 +1481,7 @@ var options = {
  text: teks1, 
 contextInfo: {mentionedJid: [sender]}, 
 }
-client.sendMessage('558892594715@s.whatsapp.net', options, text, {quoted: mek})
+client.sendMessage('5517996650733@s.whatsapp.net', options, text, {quoted: mek})
 reply("Mensagem enviada ao meu dono; Spam = block + ban.")
 break
 case 'ban':
